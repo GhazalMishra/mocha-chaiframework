@@ -1,0 +1,21 @@
+{
+  "name": "mocha-chaiFramework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "extend": "^3.0.2",
+    "mocha": "^6.2.2",
+    "superagent": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --opts ./mocha.opts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
